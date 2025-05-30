@@ -10,7 +10,6 @@ My name is Indra and I'm a software developer from Australia.
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Indr10&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Indr10&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Indr10&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Indr10&icon=6&color=9)](https://visitcount.itsvg.in)
